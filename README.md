@@ -3,4 +3,4 @@ Jan
 
 Test
 
-Dette er en test av GitHub
+Dette er en test med GitHub
